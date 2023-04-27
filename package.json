@@ -1,0 +1,26 @@
+{
+  "name": "nosql",
+  "version": "1.0.0",
+  "description": "nosql mongoose backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiaoDL4/Mongoosenosql.git"
+  },
+  "author": "Mdl45",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MiaoDL4/Mongoosenosql/issues"
+  },
+  "homepage": "https://github.com/MiaoDL4/Mongoosenosql#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
